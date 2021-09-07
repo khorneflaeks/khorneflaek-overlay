@@ -1,2 +1,2 @@
-# khorneflaek-overlay
-The khorneflaeks Gentoo overlay
+# khorneflaeksrepo
+The khorneflaeks Gentoo repo
