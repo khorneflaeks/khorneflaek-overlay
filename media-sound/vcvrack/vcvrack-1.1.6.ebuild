@@ -5,7 +5,7 @@ EAPI=8
 
 DESCRIPTION="The Eurorack Simulator"
 HOMEPAGE="https://vcvrack.com/"
-SRC_URI="https://github.com/VCVRack/Rack/archive/refs/tags/${PV}.tar.gz"
+SRC_URI="https://github.com/VCVRack/Rack/archive/refs/tags/1.1.6.tar.gz"
 
 LICENSE="GPLv3"
 SLOT="0"
